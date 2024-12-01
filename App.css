@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: red;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: red;
+  padding: 15px;
+}
+
+.navbar a {
+  color: black;
+  margin-right: 10px;
+  text-decoration: none;
+}
